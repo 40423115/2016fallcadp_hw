@@ -5,42 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2016-10-12T15:42:11-00:00</lastmod>
+<lastmod>2016-11-17T16:41:49-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2016-10-12T15:42:11-00:00</lastmod>
+<lastmod>2016-11-17T16:41:49-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2016-10-12T15:42:11-00:00</lastmod>
+<lastmod>2016-11-17T16:41:49-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2016-10-12T15:42:11-00:00</lastmod>
+<lastmod>2016-11-17T16:41:49-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./pages/about/</loc>
-<lastmod>2016-10-10T03:10:24+08:00</lastmod>
+<lastmod>2016-11-17T16:30:32+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./40423115-929zuo-ye.html</loc>
-<lastmod>2016-10-05T11:00:00+08:00</lastmod>
+<loc>./40423115-1117-fourbar.html</loc>
+<lastmod>2016-11-17T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -53,8 +53,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./category/hw.html</loc>
-<lastmod>2016-10-05T11:00:00+08:06</lastmod>
+<loc>./category/homework.html</loc>
+<lastmod>2016-11-17T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -75,7 +75,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./tag/zuo-ye.html</loc>
-<lastmod>2016-10-05T11:00:00+08:06</lastmod>
+<lastmod>2016-11-17T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -89,7 +89,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./author/40423115.html</loc>
-<lastmod>2016-10-05T11:00:00+08:06</lastmod>
+<lastmod>2016-11-17T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
