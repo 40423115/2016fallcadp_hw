@@ -72,4 +72,46 @@
 
 &lt;p&gt;&lt;a href="https://vimeo.com/185310643"&gt;40423115&lt;/a&gt; from &lt;a href="https://vimeo.com/user45926338"&gt;40423115&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;第一次使用覺得跟soildwork很像 但是還是有一點不一樣 覺得很新奇&lt;/p&gt;</summary><category term="作業"></category></entry></feed>
+&lt;p&gt;第一次使用覺得跟soildwork很像 但是還是有一點不一樣 覺得很新奇&lt;/p&gt;</summary><category term="作業"></category></entry><entry><title>40423115 09-29</title><link href="./40423115-09-29.html" rel="alternate"></link><published>2016-09-29T11:00:00+08:00</published><updated>2016-09-29T11:00:00+08:00</updated><author><name>40423115</name></author><id>tag:,2016-09-29:./40423115-09-29.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;1.創2016fallcadp_hw 將README打勾 格式:python 加密:agpl&lt;/p&gt;
+
+&lt;p&gt; 新增gh-pages分支 進入setting 點branches 將master變更為gh-pages 點update&lt;/p&gt;
+
+&lt;p&gt;2.git clone 2016fallcadp_hw&lt;/p&gt;
+
+&lt;p&gt;  cd 2016fallcadp_hw&lt;/p&gt;
+
+&lt;p&gt;git branch&lt;/p&gt;
+
+&lt;p&gt;git checkout gh-pages&lt;/p&gt;
+
+&lt;p&gt;3.創 學號.github.io  將README打勾 格式:python 加密:agpl&lt;/p&gt;
+
+&lt;p&gt;點選create new file &lt;/p&gt;
+
+&lt;p&gt;打入index.html&lt;/p&gt;
+
+&lt;p&gt;點commit new file&lt;/p&gt;
+
+&lt;p&gt;將2016fallcadp_ag100 clone下來&lt;/p&gt;
+
+&lt;p&gt;cd 2016fallcadp_ag100&lt;/p&gt;
+
+&lt;p&gt;git branch&lt;/p&gt;
+
+&lt;p&gt;git checkout gh-pages&lt;/p&gt;
+
+&lt;p&gt;將自己的2016fallcadp_hw clone網址複製&lt;/p&gt;
+
+&lt;p&gt;git submodule add -b gh-pages 網址 學號&lt;/p&gt;
+
+&lt;p&gt; 依序將隊友的資料夾加入&lt;/p&gt;
+
+&lt;p&gt;git add -A&lt;/p&gt;
+
+&lt;p&gt;git commit -m "名稱"&lt;/p&gt;
+
+&lt;p&gt; git push origin gh-pages&lt;/p&gt;
+
+&lt;p&gt; 完成 &lt;/p&gt;</summary><category term="作業"></category></entry></feed>
